@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourinchattaraj&label=Profile%20views&color=0e75b6&style=flat" alt="sourinchattaraj" /> </p>
 
-- 🌱 I’m currently learning **Tailwind Css, Javascript**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **sourinchattaraj99@gmail.com**
 
