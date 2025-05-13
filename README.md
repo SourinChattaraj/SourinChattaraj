@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🎯 I’m currently working on:  <br>MERN stack projects to strengthen my full-stack development skills.<br><br>🤝 I’m looking to collaborate on:  <br>Web development projects, open-source contributions, and hackathons.<br><br>🙋‍♂️ I’m looking for help with:  <br>Advanced backend logic, APIs, and DevOps best practices.<br><br>🌱 I’m currently learning:  <br>Backend development (Node.js, Express.js) and preparing for JLPT N5.<br><br>💬 Ask me about:  <br>React, Frontend projects, or how to get started with web development.<br><br>⚡ Fun fact:  <br>I’m passionate about Japanese culture and plan to work in Japan in the future!
 
 
